@@ -25,8 +25,7 @@ To build a simple product inventory system that can:
 - [x] Clean and modular code with STL usage
 
 ## 📸 Sample Output
-![Sample Output](Output%20sc2.png)
-
+![Sample Output](output%20sc2.png)
 
 ## 📂 File Structure
 | File                | Description |
